@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class SimpleGraph {
+public class Main {
     public static void main(String[] args) {
         // Создание графа как списка смежности
         int V = 5;
