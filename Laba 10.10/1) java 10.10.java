@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class main {
+public class Main {
     public static void main(String[] args) {
         // Матрица смежности графа городов
         int[][] graph = {
